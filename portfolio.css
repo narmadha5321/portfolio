@@ -462,6 +462,12 @@ body{
     display: flex;
     justify-content: center;
 }
+.prjimg{
+    height:230px;
+    width:400px;
+    border-radius: 20px;
+    position: relative;
+}
 .topcard1{
     height:230px;
     width:400px;
@@ -484,7 +490,7 @@ body{
     width:880px;
 }
 .link{
-    width:150px;
+    width:460px;
     height:40px;
     background-color: white;
     margin-top:22px;
