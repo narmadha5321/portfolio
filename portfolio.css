@@ -889,6 +889,17 @@ a:hover::before, a:hover::after{
     .positionset{
         width:100%;
     }
+     .prjimg{
+    width:100%
+}
+.link{
+    width:95%;
+    height:50px;
+}
+.link p{
+    width:50%;
+    font-size: 16px;
+}
     .contact{
         margin-top:380px;
     }
